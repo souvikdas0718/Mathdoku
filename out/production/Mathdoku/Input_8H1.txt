@@ -1,0 +1,33 @@
+aabbbccd
+ggffeeed
+hhiijkkd
+mmnijlkv
+omnsulvv
+opntuuvw
+pprtxxxy
+qqrttyyy
+a 7 -
+b 42 *
+c 1 -
+d 13 +
+e 280 *
+f 2 -
+g 2 -
+h 2 -
+i 210 *
+j 8 *
+k 12 +
+l 4 /
+m 72 *
+n 16 +
+o 14 *
+p 15 +
+q 12 +
+r 1 -
+s 4 =
+t 576 *
+u 36 *
+v 16 +
+w 4 =
+x 14 +
+y 24 *

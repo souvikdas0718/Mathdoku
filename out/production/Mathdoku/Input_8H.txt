@@ -1,0 +1,32 @@
+aabcccde
+afbghhde
+fffghhie
+jjkllmnn
+ookppmqn
+rrrsptqu
+vvwsttxu
+vvwxxxxu
+a 49 *
+b 10 *
+c 17 +
+d 3 +
+e 12 +
+f 120 *
+g 2 -
+h 84 *
+i 6 =
+j 2 -
+k 5 +
+l 4 /
+m 1 -
+n 49 *
+o 7 +
+p 15 *
+q 4 -
+r 19 +
+s 10 +
+t 12 +
+u 96 *
+v 17 +
+w 6 -
+x 19 +

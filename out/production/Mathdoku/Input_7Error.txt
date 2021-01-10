@@ -1,0 +1,31 @@
+abbccdd
+abeeddj
+ffggiij
+fhhklmj
+       
+nopklmj
+nopqrss
+uuuqrtt
+       
+a 2 -
+b 19 +
+c 1 -
+d 20 *
+e 5 -
+f 210         *
+g 8 +
+i 1 -
+          
+j 120 *
+h 3 -
+k 10 +
+l 4 -
+m 35 *
+n 2 /
+o 1 -
+p 4 -
+q 15 *
+r 8 +
+s 3 /
+u 9 +
+t 1 -

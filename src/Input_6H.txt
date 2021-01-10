@@ -1,0 +1,21 @@
+aabbcc
+feebbd
+fegkld
+fhgkln
+hhjkmn
+iijjoo
+a 3 +
+b 480 *
+c 18 *
+d 6 +
+e 10 +
+f 10 +
+g 5 /
+h 12 +
+i 10 +
+j 9 +
+k 11 +
+l 2 /
+m 1 =
+n 2 /
+o 15 *
